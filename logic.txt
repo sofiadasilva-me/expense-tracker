@@ -1,0 +1,8 @@
+- Add expenses
+- Add tags to categorize
+- Define budgets
+- Track how much we have left to spend
+- Add income
+- Add tag to categorize income
+- Calculate savings
+- Pie charts
